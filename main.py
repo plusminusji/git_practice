@@ -1,5 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QWidget
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QHBoxLayout, \
+    QHBoxLayout, QMessageBox
 
 # 클래스 선언(클래스 상속)
 class Calculator(QWidget):
@@ -12,12 +13,25 @@ class Calculator(QWidget):
         self.initUI()
 
     def initUI(self):
+
+
+        # ------- 1차 수정 추가 부분 -------
+        # 윈도우 버튼 생성
+        self.btn1 = QPushButton('Message', self)
+        # 해당하는 버튼이 클릭이 됐을 때 이벤트를 발생 (activeMessage 함수 실행)
+        self.btn1.clicked.connect(self.activeMessage)
+
         # 새로운 화면에 제목
         self.setWindowTitle("Calculator")
         # 새로운 화면의 사이즈
         self.resize(256, 256)
         # 윈도우 화면 출력
         self.show()
+
+    # 버튼 클릭 시 실행할 이벤트 함수 생성
+    def activeMessage(self):
+        # 버튼 클릭 시 메시지 박스 출력
+        QMessageBox.information(self, 'information', 'Button Clicked!')
 
 if __name__ == "__main__":
     # 클래스 생성
@@ -27,5 +41,5 @@ if __name__ == "__main__":
     # 애플리케이션에서 이벤트를 처리하는 루프 생성
     sys.exit(app.exec_())
 
-    
+
 
