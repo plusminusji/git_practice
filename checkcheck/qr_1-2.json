@@ -1,6 +1,8 @@
 {
   "book": "체크체크 수학 개념동영상 QR 체크",
   "total_videos": 50,
+  "grade": 1,
+  "semester": 2,
   "chapters": {
     "1. 기본 도형": [
       {
