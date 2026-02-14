@@ -1,5 +1,8 @@
 import streamlit as st
 import json
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
 
 # Page config
 st.set_page_config(
@@ -90,7 +93,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    with open("qr_data.json", "r", encoding="utf-8") as f:
+    with open(BASE_DIR / "qr_data.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 data = load_data()
