@@ -85,6 +85,13 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Load all available JSON files ──
+def _get_json_fingerprint():
+    """JSON 파일 목록과 수정 시각을 합쳐 fingerprint를 만든다.
+    파일이 추가/수정/삭제되면 fingerprint가 달라져 캐시가 갱신된다."""
+    files = sorted(BASE_DIR.glob("qr_*.json"))
+    return tuple((f.name, f.stat().st_mtime) for f in files)
+
+# ── Load all available JSON files ──
 @st.cache_data
 def load_all_data():
     """qr_*.json 파일을 모두 읽어서 {표시이름: data} 딕셔너리로 반환"""
@@ -98,7 +105,7 @@ def load_all_data():
         catalog[label] = d
     return catalog
 
-catalog = load_all_data()
+catalog = load_all_data(_fingerprint=_get_json_fingerprint())
 
 if not catalog:
     st.error("📂 qr_*.json 파일을 찾을 수 없습니다. app.py와 같은 폴더에 넣어주세요.")
@@ -130,7 +137,7 @@ selected_chapters = st.sidebar.multiselect(
 search = st.sidebar.text_input("🔍 키워드 검색", placeholder="예: 삼각형, 부채꼴...")
 
 # ── Header ──
-st.markdown('<div class="main-title">📐 체크체크 수학 개념동영상</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">🎯 체크체크 수학 개념동영상</div>', unsafe_allow_html=True)
 st.markdown(
     f'<div class="sub-title">중학 {grade}학년 {semester}학기 · QR 체크 — 이해가 안 될 때 바로 보세요!</div>',
     unsafe_allow_html=True,
