@@ -1,0 +1,316 @@
+{
+  "book": "체크체크 수학 개념동영상 QR 체크",
+  "total_videos": 50,
+  "chapters": {
+    "1. 기본 도형": [
+      {
+        "number": 1,
+        "page": "p.8",
+        "title": "도형의 기본",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600168"
+      },
+      {
+        "number": 2,
+        "page": "p.9",
+        "title": "선분, 직선, 반직선",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600169"
+      },
+      {
+        "number": 3,
+        "page": "p.10",
+        "title": "두 점 사이의 거리",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600170"
+      },
+      {
+        "number": 4,
+        "page": "p.13",
+        "title": "각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600171"
+      },
+      {
+        "number": 5,
+        "page": "p.14",
+        "title": "맞꼭지각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600172"
+      },
+      {
+        "number": 6,
+        "page": "p.15",
+        "title": "직교, 수직이등분선, 수선의 발",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600173"
+      },
+      {
+        "number": 7,
+        "page": "p.18",
+        "title": "점과 직선, 평면에서 두 직선의 위치 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600174"
+      },
+      {
+        "number": 8,
+        "page": "p.19",
+        "title": "공간에서 두 직선의 위치 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600175"
+      },
+      {
+        "number": 9,
+        "page": "p.20-21",
+        "title": "공간에서 직선과 면의 위치 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600176"
+      },
+      {
+        "number": 10,
+        "page": "p.23",
+        "title": "동위각과 엇각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600177"
+      },
+      {
+        "number": 11,
+        "page": "p.24-25",
+        "title": "평행선에서 동위각과 엇각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600178"
+      }
+    ],
+    "2. 작도와 합동": [
+      {
+        "number": 12,
+        "page": "p.40",
+        "title": "작도, 길이가 같은 선분의 작도",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600179"
+      },
+      {
+        "number": 13,
+        "page": "p.41",
+        "title": "크기가 같은 각의 작도",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600180"
+      },
+      {
+        "number": 14,
+        "page": "p.42",
+        "title": "평행선의 작도",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600181"
+      },
+      {
+        "number": 15,
+        "page": "p.44",
+        "title": "삼각형의 세 변의 길이 사이의 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600182"
+      },
+      {
+        "number": 16,
+        "page": "p.45-46",
+        "title": "삼각형의 작도",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600183"
+      },
+      {
+        "number": 17,
+        "page": "p.47",
+        "title": "삼각형이 하나로 정해지는 경우",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600184"
+      },
+      {
+        "number": 18,
+        "page": "p.49",
+        "title": "합동인 도형",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600185"
+      },
+      {
+        "number": 19,
+        "page": "p.50",
+        "title": "삼각형의 합동 조건",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600186"
+      }
+    ],
+    "3. 평면도형": [
+      {
+        "number": 20,
+        "page": "p.64",
+        "title": "내각과 외각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600187"
+      },
+      {
+        "number": 21,
+        "page": "p.65",
+        "title": "대각선의 개수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600188"
+      },
+      {
+        "number": 22,
+        "page": "p.67-68",
+        "title": "삼각형의 내각과 외각",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600189"
+      },
+      {
+        "number": 23,
+        "page": "p.71",
+        "title": "내각의 크기의 합",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600190"
+      },
+      {
+        "number": 24,
+        "page": "p.72",
+        "title": "외각의 크기의 합",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600191"
+      },
+      {
+        "number": 25,
+        "page": "p.74",
+        "title": "부채꼴",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600192"
+      },
+      {
+        "number": 26,
+        "page": "p.75",
+        "title": "부채꼴의 중심각의 크기",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600193"
+      },
+      {
+        "number": 27,
+        "page": "p.78",
+        "title": "원의 둘레의 길이와 넓이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600194"
+      },
+      {
+        "number": 28,
+        "page": "p.79",
+        "title": "부채꼴의 호의 길이와 넓이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600195"
+      },
+      {
+        "number": 29,
+        "page": "p.80",
+        "title": "부채꼴의 호의 길이와 넓이 사이의 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600196"
+      }
+    ],
+    "4. 입체도형": [
+      {
+        "number": 30,
+        "page": "p.94",
+        "title": "다면체",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600197"
+      },
+      {
+        "number": 31,
+        "page": "p.95",
+        "title": "다면체의 종류",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600198"
+      },
+      {
+        "number": 32,
+        "page": "p.96",
+        "title": "정다면체",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600199"
+      },
+      {
+        "number": 33,
+        "page": "p.100",
+        "title": "회전체",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600200"
+      },
+      {
+        "number": 34,
+        "page": "p.101",
+        "title": "회전체의 성질",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600201"
+      },
+      {
+        "number": 35,
+        "page": "p.104-105",
+        "title": "기둥의 겉넓이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600202"
+      },
+      {
+        "number": 36,
+        "page": "p.106",
+        "title": "기둥의 부피",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600203"
+      },
+      {
+        "number": 37,
+        "page": "p.110",
+        "title": "뿔의 겉넓이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600204"
+      },
+      {
+        "number": 38,
+        "page": "p.111",
+        "title": "뿔의 부피",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600205"
+      },
+      {
+        "number": 39,
+        "page": "p.112-113",
+        "title": "뿔대의 겉넓이와 부피",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600206"
+      },
+      {
+        "number": 40,
+        "page": "p.116",
+        "title": "구의 겉넓이와 부피",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600207"
+      }
+    ],
+    "5. 자료의 정리와 해석": [
+      {
+        "number": 41,
+        "page": "p.128",
+        "title": "대푯값, 평균",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600208"
+      },
+      {
+        "number": 42,
+        "page": "p.129",
+        "title": "중앙값",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600209"
+      },
+      {
+        "number": 43,
+        "page": "p.130",
+        "title": "최빈값",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600210"
+      },
+      {
+        "number": 44,
+        "page": "p.133",
+        "title": "줄기와 잎 그림",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600211"
+      },
+      {
+        "number": 45,
+        "page": "p.135",
+        "title": "도수분포표",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600212"
+      },
+      {
+        "number": 46,
+        "page": "p.138",
+        "title": "히스토그램",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600213"
+      },
+      {
+        "number": 47,
+        "page": "p.139",
+        "title": "도수분포다각형",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600214"
+      },
+      {
+        "number": 48,
+        "page": "p.142",
+        "title": "상대도수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600215"
+      },
+      {
+        "number": 49,
+        "page": "p.143",
+        "title": "상대도수의 그래프",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600216"
+      },
+      {
+        "number": 50,
+        "page": "p.144",
+        "title": "도수의 총합이 다른 두 자료",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250600217"
+      }
+    ]
+  }
+}
