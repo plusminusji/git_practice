@@ -142,60 +142,107 @@ selected_chapters = st.sidebar.multiselect(
 )
 
 # ── Sidebar: 키워드 검색 ──
-search = st.sidebar.text_input("🔍 키워드 검색", placeholder="예: 삼각형, 부채꼴...")
+st.sidebar.markdown("---")
+st.sidebar.title("🔍 키워드 검색")
+search = st.sidebar.text_input(
+    "검색어를 입력하세요", 
+    placeholder="예: 삼각형, 유리수..."
+)
 
 # ── Header ──
 st.markdown('<div class="main-title">🎯 체크체크 수학 개념동영상</div>', unsafe_allow_html=True)
-st.markdown(
-    f'<div class="sub-title">중학 {grade}학년 {semester}학기 · QR 체크 — 이해가 안 될 때 바로 보세요!</div>',
-    unsafe_allow_html=True,
-)
 
-# ── Stats ──
-total_shown = 0
-for ch in selected_chapters:
-    ch_items = data["chapters"][ch]
-    if search:
-        ch_items = [item for item in ch_items if search.lower() in item["title"].lower()]
-    total_shown += len(ch_items)
-col1, col2, col3 = st.columns(3)
-with col1:
-    st.metric("전체 동영상", f"{data['total_videos']}개")
-with col2:
-    st.metric("선택된 챕터", f"{len(selected_chapters)}개")
-with col3:
-    st.metric("표시 중", f"{total_shown}개")
+if search:
+    # ── 검색 모드: 전체 학년/학기에서 키워드 검색 ──
+    st.markdown(
+        f'<div class="sub-title">전체 학년/학기에서 "<b>{search}</b>" 검색 결과</div>',
+        unsafe_allow_html=True,
+    )
 
-st.divider()
+    total_shown = 0
+    search_results = {}  # {label: {chapter: [items]}}
+    for label, d in catalog.items():
+        for ch, ch_items in d["chapters"].items():
+            matched = [item for item in ch_items if search.lower() in item["title"].lower()]
+            if matched:
+                search_results.setdefault(label, {})[ch] = matched
+                total_shown += len(matched)
 
-# ── Display videos ──
-for chapter in selected_chapters:
-    items = data["chapters"][chapter]
+    col1, col2 = st.columns(2)
+    with col1:
+        st.metric("검색 결과", f"{total_shown}개")
+    with col2:
+        st.metric("해당 학년/학기", f"{len(search_results)}개")
 
-    if search:
-        items = [item for item in items if search.lower() in item["title"].lower()]
+    st.divider()
 
-    if not items:
-        continue
+    if not search_results:
+        st.info(f'"{search}"에 대한 검색 결과가 없습니다.')
+    else:
+        for label, chapters_dict in search_results.items():
+            st.markdown(f"### {label}")
+            for chapter, items in chapters_dict.items():
+                st.markdown(f'<div class="chapter-header">📖 {chapter}</div>', unsafe_allow_html=True)
+                cols = st.columns(4)
+                for i, item in enumerate(items):
+                    with cols[i % 4]:
+                        with st.container():
+                            st.markdown(f"""
+                            <div class="video-card">
+                                <span class="video-number">{item['number']:02d}</span>
+                                <span class="video-title">{item['title']}</span>
+                                <div class="video-page">📄 {item['page']}</div>
+                            </div>
+                            """, unsafe_allow_html=True)
+                            st.link_button(
+                                "▶️ 동영상 보기",
+                                item["url"],
+                                use_container_width=True,
+                            )
+else:
+    # ── 일반 모드: 선택된 학년/학기만 표시 ──
+    st.markdown(
+        f'<div class="sub-title">중학 {grade}학년 {semester}학기 · QR 체크 — 이해가 안 될 때 바로 보세요!</div>',
+        unsafe_allow_html=True,
+    )
 
-    st.markdown(f'<div class="chapter-header">📖 {chapter}</div>', unsafe_allow_html=True)
+    total_shown = 0
+    for ch in selected_chapters:
+        total_shown += len(data["chapters"][ch])
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric("전체 동영상", f"{data['total_videos']}개")
+    with col2:
+        st.metric("선택된 챕터", f"{len(selected_chapters)}개")
+    with col3:
+        st.metric("표시 중", f"{total_shown}개")
 
-    cols = st.columns(4)
-    for i, item in enumerate(items):
-        with cols[i % 4]:
-            with st.container():
-                st.markdown(f"""
-                <div class="video-card">
-                    <span class="video-number">{item['number']:02d}</span>
-                    <span class="video-title">{item['title']}</span>
-                    <div class="video-page">📄 {item['page']}</div>
-                </div>
-                """, unsafe_allow_html=True)
-                st.link_button(
-                    "▶️ 동영상 보기",
-                    item["url"],
-                    use_container_width=True,
-                )
+    st.divider()
+
+    for chapter in selected_chapters:
+        items = data["chapters"][chapter]
+
+        if not items:
+            continue
+
+        st.markdown(f'<div class="chapter-header">📖 {chapter}</div>', unsafe_allow_html=True)
+
+        cols = st.columns(4)
+        for i, item in enumerate(items):
+            with cols[i % 4]:
+                with st.container():
+                    st.markdown(f"""
+                    <div class="video-card">
+                        <span class="video-number">{item['number']:02d}</span>
+                        <span class="video-title">{item['title']}</span>
+                        <div class="video-page">📄 {item['page']}</div>
+                    </div>
+                    """, unsafe_allow_html=True)
+                    st.link_button(
+                        "▶️ 동영상 보기",
+                        item["url"],
+                        use_container_width=True,
+                    )
 
 # ── Footer ──
 st.divider()
