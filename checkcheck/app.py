@@ -152,7 +152,12 @@ st.markdown(
 )
 
 # ── Stats ──
-total_shown = sum(len(data["chapters"][ch]) for ch in selected_chapters)
+total_shown = 0
+for ch in selected_chapters:
+    ch_items = data["chapters"][ch]
+    if search:
+        ch_items = [item for item in ch_items if search.lower() in item["title"].lower()]
+    total_shown += len(ch_items)
 col1, col2, col3 = st.columns(3)
 with col1:
     st.metric("전체 동영상", f"{data['total_videos']}개")
