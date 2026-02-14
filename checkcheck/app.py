@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).parent
 # Page config
 st.set_page_config(
     page_title="체크체크 수학 개념동영상",
-    page_icon="🎯",
+    page_icon="📐",
     layout="wide"
 )
 
@@ -81,8 +81,15 @@ st.markdown("""
         font-weight: 600;
         width: 100%;
     }
+    .stats-box {
+        background: #f8f9fa;
+        border-radius: 10px;
+        padding: 15px;
+        text-align: center;
+    }
 </style>
 """, unsafe_allow_html=True)
+
 
 # ── Load all available JSON files ──
 def _get_json_fingerprint():
@@ -91,9 +98,9 @@ def _get_json_fingerprint():
     files = sorted(BASE_DIR.glob("qr_*.json"))
     return tuple((f.name, f.stat().st_mtime) for f in files)
 
-# ── Load all available JSON files ──
+
 @st.cache_data
-def load_all_data():
+def load_all_data(_fingerprint):
     """qr_*.json 파일을 모두 읽어서 {표시이름: data} 딕셔너리로 반환"""
     catalog = {}
     for f in sorted(BASE_DIR.glob("qr_*.json")):
@@ -104,6 +111,7 @@ def load_all_data():
         label = f"중{grade} - {semester}학기"
         catalog[label] = d
     return catalog
+
 
 catalog = load_all_data(_fingerprint=_get_json_fingerprint())
 
@@ -137,7 +145,7 @@ selected_chapters = st.sidebar.multiselect(
 search = st.sidebar.text_input("🔍 키워드 검색", placeholder="예: 삼각형, 부채꼴...")
 
 # ── Header ──
-st.markdown('<div class="main-title">🎯 체크체크 수학 개념동영상</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">📐 체크체크 수학 개념동영상</div>', unsafe_allow_html=True)
 st.markdown(
     f'<div class="sub-title">중학 {grade}학년 {semester}학기 · QR 체크 — 이해가 안 될 때 바로 보세요!</div>',
     unsafe_allow_html=True,
