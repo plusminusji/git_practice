@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).parent
 # Page config
 st.set_page_config(
     page_title="체크체크 수학 개념동영상",
-    page_icon="📐",
+    page_icon="🎯",
     layout="wide"
 )
 
