@@ -1,0 +1,378 @@
+{
+  "book": "체크체크 수학 개념동영상 QR 체크",
+  "total_videos": 60,
+  "grade": 1,
+  "semester": 1,
+  "chapters": {
+    "1. 소인수분해": [
+      {
+        "number": 1,
+        "page": "p.8~9",
+        "title": "소수와 합성수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200320"
+      },
+      {
+        "number": 2,
+        "page": "p.10",
+        "title": "거듭제곱",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200321"
+      },
+      {
+        "number": 3,
+        "page": "p.12",
+        "title": "소인수분해",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200322"
+      },
+      {
+        "number": 4,
+        "page": "p.13",
+        "title": "소인수분해를 이용하여 약수와 약수의 개수 구하기",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200323"
+      },
+      {
+        "number": 5,
+        "page": "p.14",
+        "title": "어떤 자연수의 제곱이 되는 수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200324"
+      },
+      {
+        "number": 6,
+        "page": "p.17",
+        "title": "최대공약수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200325"
+      },
+      {
+        "number": 7,
+        "page": "p.18",
+        "title": "최대공약수를 구하는 방법",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200326"
+      },
+      {
+        "number": 8,
+        "page": "p.21",
+        "title": "최소공배수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200327"
+      },
+      {
+        "number": 9,
+        "page": "p.22",
+        "title": "최소공배수를 구하는 방법",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200328"
+      },
+      {
+        "number": 10,
+        "page": "p.23",
+        "title": "최대공약수와 최소공배수의 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200329"
+      }
+    ],
+    "2. 정수와 유리수": [
+      {
+        "number": 11,
+        "page": "p.36",
+        "title": "양수와 음수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200330"
+      },
+      {
+        "number": 12,
+        "page": "p.37",
+        "title": "정수와 유리수",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200331"
+      },
+      {
+        "number": 13,
+        "page": "p.38",
+        "title": "수직선",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200332"
+      },
+      {
+        "number": 14,
+        "page": "p.40",
+        "title": "절댓값, 절댓값의 성질",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200333"
+      },
+      {
+        "number": 15,
+        "page": "p.41",
+        "title": "유리수의 대소 관계, 부등호의 사용",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200334"
+      },
+      {
+        "number": 16,
+        "page": "p.43",
+        "title": "정수의 덧셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200335"
+      },
+      {
+        "number": 17,
+        "page": "p.44",
+        "title": "유리수의 덧셈, 덧셈의 계산 법칙",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200336"
+      },
+      {
+        "number": 18,
+        "page": "p.46",
+        "title": "정수와 유리수의 뺄셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200337"
+      },
+      {
+        "number": 19,
+        "page": "p.47",
+        "title": "덧셈과 뺄셈의 혼합 계산, 부호가 생략된 수가 있는 덧셈과 뺄셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200338"
+      },
+      {
+        "number": 20,
+        "page": "p.50~51",
+        "title": "정수와 유리수의 곱셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200339"
+      },
+      {
+        "number": 21,
+        "page": "p.52",
+        "title": "곱셈의 계산 법칙, 셋 이상의 유리수의 곱셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200340"
+      },
+      {
+        "number": 22,
+        "page": "p.53",
+        "title": "거듭제곱의 계산",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200341"
+      },
+      {
+        "number": 23,
+        "page": "p.54",
+        "title": "분배법칙",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200342"
+      },
+      {
+        "number": 24,
+        "page": "p.57",
+        "title": "정수의 나눗셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200343"
+      },
+      {
+        "number": 25,
+        "page": "p.58",
+        "title": "역수를 이용한 나눗셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200344"
+      },
+      {
+        "number": 26,
+        "page": "p.59",
+        "title": "곱셈과 나눗셈의 혼합 계산",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200345"
+      },
+      {
+        "number": 27,
+        "page": "p.60",
+        "title": "덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200346"
+      }
+    ],
+    "3. 문자의 사용과 식": [
+      {
+        "number": 28,
+        "page": "p.74",
+        "title": "문자를 사용한 식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200347"
+      },
+      {
+        "number": 29,
+        "page": "p.75",
+        "title": "곱셈 기호, 나눗셈 기호의 생략",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200348"
+      },
+      {
+        "number": 30,
+        "page": "p.77",
+        "title": "식의 값",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200349"
+      },
+      {
+        "number": 31,
+        "page": "p.79",
+        "title": "다항식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200350"
+      },
+      {
+        "number": 32,
+        "page": "p.80",
+        "title": "차수와 일차식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200351"
+      },
+      {
+        "number": 33,
+        "page": "p.81",
+        "title": "일차식과 수의 곱셈, 나눗셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200352"
+      },
+      {
+        "number": 34,
+        "page": "p.83",
+        "title": "동류항",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200353"
+      },
+      {
+        "number": 35,
+        "page": "p.84",
+        "title": "일차식의 덧셈과 뺄셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200354"
+      },
+      {
+        "number": 36,
+        "page": "p.85",
+        "title": "분수 꼴인 일차식의 덧셈과 뺄셈",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200355"
+      }
+    ],
+    "4. 일차방정식": [
+      {
+        "number": 37,
+        "page": "p.98",
+        "title": "등식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200356"
+      },
+      {
+        "number": 38,
+        "page": "p.99",
+        "title": "방정식, 항등식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200357"
+      },
+      {
+        "number": 39,
+        "page": "p.100",
+        "title": "등식의 성질, 이를 이용한 방정식의 풀이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200358"
+      },
+      {
+        "number": 40,
+        "page": "p.103",
+        "title": "이항, 일차방정식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200359"
+      },
+      {
+        "number": 41,
+        "page": "p.104",
+        "title": "일차방정식의 풀이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200360"
+      },
+      {
+        "number": 42,
+        "page": "p.105",
+        "title": "복잡한 일차방정식의 풀이",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200361"
+      },
+      {
+        "number": 43,
+        "page": "p.108~109",
+        "title": "어떤 수, 연속하는 수, 자릿수에 대한 문제",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200362"
+      },
+      {
+        "number": 44,
+        "page": "p.109~110",
+        "title": "나이, 총합이 일정, 과부족에 대한 문제",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200363"
+      },
+      {
+        "number": 45,
+        "page": "p.112",
+        "title": "거리, 속력, 시간에 대한 문제①",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200364"
+      },
+      {
+        "number": 46,
+        "page": "p.113",
+        "title": "거리, 속력, 시간에 대한 문제②",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200365"
+      }
+    ],
+    "5. 좌표평면과 그래프": [
+      {
+        "number": 47,
+        "page": "p.126~127",
+        "title": "수직선, 좌표평면 위의 점의 좌표①",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200366"
+      },
+      {
+        "number": 48,
+        "page": "p.127",
+        "title": "수직선, 좌표평면 위의 점의 좌표②",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200367"
+      },
+      {
+        "number": 49,
+        "page": "p.128",
+        "title": "사분면",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200368"
+      },
+      {
+        "number": 50,
+        "page": "p.130",
+        "title": "그래프의 뜻",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200369"
+      },
+      {
+        "number": 51,
+        "page": "p.131",
+        "title": "그래프 나타내기",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200370"
+      },
+      {
+        "number": 52,
+        "page": "p.132",
+        "title": "그래프의 해석",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200371"
+      },
+      {
+        "number": 53,
+        "page": "p.134",
+        "title": "정비례 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200372"
+      },
+      {
+        "number": 54,
+        "page": "p.135",
+        "title": "정비례 관계의 그래프",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200373"
+      },
+      {
+        "number": 55,
+        "page": "p.137~138",
+        "title": "정비례 관계의 그래프의 성질과 나타내는 식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200374"
+      },
+      {
+        "number": 56,
+        "page": "p.138",
+        "title": "정비례 관계의 활용",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200375"
+      },
+      {
+        "number": 57,
+        "page": "p.140",
+        "title": "반비례 관계",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200376"
+      },
+      {
+        "number": 58,
+        "page": "p.141",
+        "title": "반비례 관계의 그래프",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200377"
+      },
+      {
+        "number": 59,
+        "page": "p.143~144",
+        "title": "반비례 관계의 그래프의 성질과 나타내는 식",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200378"
+      },
+      {
+        "number": 60,
+        "page": "p.144",
+        "title": "반비례 관계의 활용",
+        "url": "https://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20250200379"
+      }
+    ]
+  }
+}
