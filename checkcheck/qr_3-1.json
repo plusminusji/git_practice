@@ -1,0 +1,364 @@
+{
+  "book": "체크체크 수학 개념동영상 QR 체크",
+  "total_videos": 57,
+  "grade": 3,
+  "semester": 1,
+  "chapters": {
+    "1. 제곱근과 무리수": [
+      {
+        "number": 1,
+        "page": "p.8",
+        "title": "제곱근의 뜻",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800248"
+      },
+      {
+        "number": 2,
+        "page": "p.9",
+        "title": "제곱근의 표현",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800249"
+      },
+      {
+        "number": 3,
+        "page": "p.11",
+        "title": "제곱근의 성질",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800250"
+      },
+      {
+        "number": 4,
+        "page": "p.12",
+        "title": "제곱근의 대소 관계",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800251"
+      },
+      {
+        "number": 5,
+        "page": "p.14",
+        "title": "문자가 포함된 식에서 근호 없애기",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800252"
+      },
+      {
+        "number": 6,
+        "page": "p.15",
+        "title": "제곱수를 이용하여 근호 없애기",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800253"
+      },
+      {
+        "number": 7,
+        "page": "p.17",
+        "title": "무리수와 실수",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800254"
+      },
+      {
+        "number": 8,
+        "page": "p.19",
+        "title": "제곱근을 어림한 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800255"
+      },
+      {
+        "number": 9,
+        "page": "p.21",
+        "title": "실수와 수직선",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800256"
+      },
+      {
+        "number": 10,
+        "page": "p.22",
+        "title": "실수의 대소 관계",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800257"
+      }
+    ],
+    "2. 근호를 포함한 식의 계산": [
+      {
+        "number": 11,
+        "page": "p.34",
+        "title": "제곱근의 곱셈과 나눗셈",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800258"
+      },
+      {
+        "number": 12,
+        "page": "p.35",
+        "title": "근호가 있는 식의 변형",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800259"
+      },
+      {
+        "number": 13,
+        "page": "p.36",
+        "title": "제곱근표에 없는 수의 제곱근을 어림한 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800260"
+      },
+      {
+        "number": 14,
+        "page": "p.38",
+        "title": "분모의 유리화",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800261"
+      },
+      {
+        "number": 15,
+        "page": "p.39",
+        "title": "근호를 포함한 식의 곱셈과 나눗셈",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800262"
+      },
+      {
+        "number": 16,
+        "page": "p.41",
+        "title": "근호를 포함한 식의 덧셈과 뺄셈",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800263"
+      },
+      {
+        "number": 17,
+        "page": "p.42",
+        "title": "근호가 있는 식의 계산",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800264"
+      },
+      {
+        "number": 18,
+        "page": "p.43",
+        "title": "근호를 포함한 복잡한 식의 계산",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800265"
+      }
+    ],
+    "3. 다항식의 곱셈": [
+      {
+        "number": 19,
+        "page": "p.56",
+        "title": "다항식과 다항식의 곱셈",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800266"
+      },
+      {
+        "number": 20,
+        "page": "p.57~58",
+        "title": "곱셈 공식 (1)(2)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800267"
+      },
+      {
+        "number": 21,
+        "page": "p.59",
+        "title": "곱셈 공식 (3)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800268"
+      },
+      {
+        "number": 22,
+        "page": "p.60",
+        "title": "곱셈 공식 (4)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800269"
+      },
+      {
+        "number": 23,
+        "page": "p.63",
+        "title": "곱셈 공식을 이용한 수의 계산",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800270"
+      },
+      {
+        "number": 24,
+        "page": "p.64",
+        "title": "곱셈 공식을 이용한 분모의 유리화",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800271"
+      },
+      {
+        "number": 25,
+        "page": "p.65",
+        "title": "복잡한 식의 전개, 곱셈 공식의 변형",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800272"
+      }
+    ],
+    "4. 인수분해": [
+      {
+        "number": 26,
+        "page": "p.78",
+        "title": "인수분해의 뜻",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800273"
+      },
+      {
+        "number": 27,
+        "page": "p.80",
+        "title": "인수분해 공식 (1)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800274"
+      },
+      {
+        "number": 28,
+        "page": "p.81",
+        "title": "완전제곱식이 되는 조건",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800275"
+      },
+      {
+        "number": 29,
+        "page": "p.82",
+        "title": "인수분해 공식 (2)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800276"
+      },
+      {
+        "number": 30,
+        "page": "p.84",
+        "title": "인수분해 공식 (3)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800277"
+      },
+      {
+        "number": 31,
+        "page": "p.85",
+        "title": "인수분해 공식 (4)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800278"
+      },
+      {
+        "number": 32,
+        "page": "p.90",
+        "title": "인수분해를 이용한 수의 계산, 식의 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800279"
+      },
+      {
+        "number": 33,
+        "page": "p.91",
+        "title": "복잡한 식의 인수분해 (1)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800280"
+      },
+      {
+        "number": 34,
+        "page": "p.92",
+        "title": "복잡한 식의 인수분해 (2)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800281"
+      }
+    ],
+    "5. 이차방정식": [
+      {
+        "number": 35,
+        "page": "p.106",
+        "title": "이차방정식의 뜻",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800282"
+      },
+      {
+        "number": 36,
+        "page": "p.107",
+        "title": "이차방정식의 해(근)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800283"
+      },
+      {
+        "number": 37,
+        "page": "p.109",
+        "title": "AB=0꼴의 이차방정식의 풀이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800284"
+      },
+      {
+        "number": 38,
+        "page": "p.109",
+        "title": "인수분해를 이용한 이차방정식의 풀이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800285"
+      },
+      {
+        "number": 39,
+        "page": "p.110",
+        "title": "이차방정식의 중근",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800286"
+      },
+      {
+        "number": 40,
+        "page": "p.113",
+        "title": "제곱근을 이용한 이차방정식의 풀이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800287"
+      },
+      {
+        "number": 41,
+        "page": "p.114",
+        "title": "완전제곱식을 이용한 이차방정식의 풀이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800288"
+      },
+      {
+        "number": 42,
+        "page": "p.117",
+        "title": "이차방정식의 근의 공식",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800289"
+      },
+      {
+        "number": 43,
+        "page": "p.121",
+        "title": "이차방정식의 근의 개수",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800290"
+      },
+      {
+        "number": 44,
+        "page": "p.122",
+        "title": "두 근이 주어질 때 이차방정식 구하기",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800291"
+      },
+      {
+        "number": 45,
+        "page": "p.123",
+        "title": "이차방정식의 활용",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800292"
+      }
+    ],
+    "6. 이차함수": [
+      {
+        "number": 46,
+        "page": "p.136",
+        "title": "이차함수의 뜻과 함숫값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800293"
+      },
+      {
+        "number": 47,
+        "page": "p.138",
+        "title": "이차함수 y=x²의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800294"
+      },
+      {
+        "number": 48,
+        "page": "p.139",
+        "title": "이차함수 y=ax²의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800295"
+      },
+      {
+        "number": 49,
+        "page": "p.140",
+        "title": "이차함수 y=ax²의 그래프의 성질",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800296"
+      },
+      {
+        "number": 50,
+        "page": "p.142",
+        "title": "이차함수 y=ax²+q의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800297"
+      },
+      {
+        "number": 51,
+        "page": "p.144",
+        "title": "이차함수 y=a(x-p)²의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800298"
+      },
+      {
+        "number": 52,
+        "page": "p.148",
+        "title": "이차함수 y=a(x-p)²+q의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800299"
+      },
+      {
+        "number": 53,
+        "page": "p.150",
+        "title": "이차함수 y=a(x-p)²+q의 그래프에서 a, p, q의 부호",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800300"
+      }
+    ],
+    "7. 이차함수의 활용": [
+      {
+        "number": 54,
+        "page": "p.162",
+        "title": "이차함수 y=ax²+bx+c의 그래프",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800301"
+      },
+      {
+        "number": 55,
+        "page": "p.164",
+        "title": "이차함수 y=ax²+bx+c의 그래프에서 a, b, c의 부호",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800302"
+      },
+      {
+        "number": 56,
+        "page": "p.167",
+        "title": "이차함수의 식 구하기 (1)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800303"
+      },
+      {
+        "number": 57,
+        "page": "p.168",
+        "title": "이차함수의 식 구하기 (2)",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800304"
+      }
+    ]
+  }
+}

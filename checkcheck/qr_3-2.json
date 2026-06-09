@@ -1,0 +1,192 @@
+{
+  "book": "체크체크 수학 개념동영상 QR 체크",
+  "total_videos": 29,
+  "grade": 3,
+  "semester": 2,
+  "chapters": {
+    "1. 삼각비": [
+      {
+        "number": 1,
+        "page": "p.10",
+        "title": "삼각비의 뜻",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800407"
+      },
+      {
+        "number": 2,
+        "page": "p.12",
+        "title": "30°, 45°, 60°의 삼각비의 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800408"
+      },
+      {
+        "number": 3,
+        "page": "p.14",
+        "title": "예각의 삼각비의 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800409"
+      },
+      {
+        "number": 4,
+        "page": "p.14",
+        "title": "0°, 90°의 삼각비의 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800410"
+      },
+      {
+        "number": 5,
+        "page": "p.15",
+        "title": "삼각비의 표를 이용한 삼각비의 값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800411"
+      }
+    ],
+    "2. 삼각비의 활용": [
+      {
+        "number": 6,
+        "page": "p.28",
+        "title": "직각삼각형에서 변의 길이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800412"
+      },
+      {
+        "number": 7,
+        "page": "p.29",
+        "title": "일반 삼각형에서 변의 길이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800413"
+      },
+      {
+        "number": 8,
+        "page": "p.30",
+        "title": "일반 삼각형의 높이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800414"
+      },
+      {
+        "number": 9,
+        "page": "p.32",
+        "title": "삼각비의 활용 - 삼각형의 넓이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800415"
+      },
+      {
+        "number": 10,
+        "page": "p.33",
+        "title": "삼각비의 활용 - 사각형의 넓이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800416"
+      }
+    ],
+    "3. 원과 직선": [
+      {
+        "number": 11,
+        "page": "p.45",
+        "title": "원의 중심과 현의 수직이등분선",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800417"
+      },
+      {
+        "number": 12,
+        "page": "p.46",
+        "title": "원의 중심과 현의 길이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800418"
+      },
+      {
+        "number": 13,
+        "page": "p.49",
+        "title": "원의 접선",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800419"
+      },
+      {
+        "number": 14,
+        "page": "p.50",
+        "title": "삼각형의 내접원과 접선",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800420"
+      },
+      {
+        "number": 15,
+        "page": "p.51",
+        "title": "사각형의 내접원과 접선",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800421"
+      }
+    ],
+    "4. 원주각": [
+      {
+        "number": 16,
+        "page": "p.65~66",
+        "title": "원주각과 중심각의 크기",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800422"
+      },
+      {
+        "number": 17,
+        "page": "p.66",
+        "title": "반원에 대한 원주각의 크기",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800423"
+      },
+      {
+        "number": 18,
+        "page": "p.67",
+        "title": "원주각의 크기와 호의 길이",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800424"
+      },
+      {
+        "number": 19,
+        "page": "p.70",
+        "title": "네 점이 한 원 위에 있을 조건",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800425"
+      },
+      {
+        "number": 20,
+        "page": "p.71",
+        "title": "원에 내접하는 사각형의 성질",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800426"
+      },
+      {
+        "number": 21,
+        "page": "p.72",
+        "title": "사각형이 원에 내접하기 위한 조건",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800427"
+      },
+      {
+        "number": 22,
+        "page": "p.75",
+        "title": "원의 접선과 현이 이루는 각",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800428"
+      },
+      {
+        "number": 23,
+        "page": "p.76",
+        "title": "두 원에서 공통인 접선과 현이 이루는 각",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800429"
+      }
+    ],
+    "5. 통계": [
+      {
+        "number": 24,
+        "page": "p.89",
+        "title": "대푯값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800430"
+      },
+      {
+        "number": 25,
+        "page": "p.90",
+        "title": "중앙값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800431"
+      },
+      {
+        "number": 26,
+        "page": "p.91",
+        "title": "최빈값",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800432"
+      },
+      {
+        "number": 27,
+        "page": "p.94~95",
+        "title": "산포도, 편차",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800433"
+      },
+      {
+        "number": 28,
+        "page": "p.96",
+        "title": "분산과 표준편차",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800434"
+      },
+      {
+        "number": 29,
+        "page": "p.99~100",
+        "title": "산점도와 상관관계",
+        "url": "http://code.chunjae.co.kr/qrcode/qrcode.aspx?qr=20210800435"
+      }
+    ]
+  }
+}
